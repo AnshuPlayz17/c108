@@ -1,0 +1,33 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: beige;
+    font-style: italic;
+    text-align: center;
+}
+
+h3{
+    font-size: 35px;
+    background-color: aqua;
+}
+
+p{
+    font-size: 20px;
+    background-color: aqua;
+}
+
+main_div button{
+    font-family: fantasy;
+    margin-top: 30px;
+    width: 150px;
+}
+
+.copyrightfooter{
+    font-family: cursive;
+    position: fixed;
+    bottom: 0;
+    background-color: cornflowerblue;
+    color: darkred;
+    text-align: center;
+    line-height: 3;
+    width: 100%;
+}
